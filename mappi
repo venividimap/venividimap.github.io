@@ -1,0 +1,7029 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 0,
+        "NUMBER": "1101-01-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Buldir",
+        "ELEVATION": 656,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": 175.908
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.9079745324891,
+          52.34843477238331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 1,
+        "NUMBER": "1104-05-",
+        "LOCATION": "Alaska-W",
+        "NAME": "Kookooligit Mountains",
+        "ELEVATION": 673,
+        "TYPE": "Shield volcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -170.4327
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -170.4327087900658,
+          63.59910978286132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 2,
+        "NUMBER": "1101-02-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Kiska",
+        "ELEVATION": 1220,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": 177.5992
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.59915153406416,
+          52.101440772153275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 3,
+        "NUMBER": "1101-03-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Segula",
+        "ELEVATION": 1160,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": 178.1332
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.1331635345615,
+          52.01344277207132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 4,
+        "NUMBER": "1101-04-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Davidof",
+        "ELEVATION": 328,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": 178.3272
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.3271785347422,
+          51.96844877202942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 5,
+        "NUMBER": "1104-06-",
+        "LOCATION": "Alaska-W",
+        "NAME": "Imuruk Lake",
+        "ELEVATION": 610,
+        "TYPE": "Shield volcanoes",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D6",
+        "test": null,
+        "coor": -163.9227
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -163.92268378400286,
+          65.59928178472413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 6,
+        "NUMBER": "1101-05-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Little Sitkin",
+        "ELEVATION": 1174,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D3",
+        "test": null,
+        "coor": 178.5402
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.54019153494056,
+          51.94845177201079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 7,
+        "NUMBER": "1101-06-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Semisopochnoi",
+        "ELEVATION": 1221,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": 179.5773
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.57727053590645,
+          51.928466771992184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 8,
+        "NUMBER": "1101-07-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Gareloi",
+        "ELEVATION": 1573,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -178.7926
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -178.79261779785156,
+          51.78852477186185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 9,
+        "NUMBER": "1101-08-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Tanaga",
+        "ELEVATION": 1806,
+        "TYPE": "Stratovolcanoes",
+        "STATUS": "Historical",
+        "TIME_CODE": "D2",
+        "test": null,
+        "coor": -178.1426
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -178.14256279724614,
+          51.88356777195037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 10,
+        "NUMBER": "1104-04-",
+        "LOCATION": "Alaska-W",
+        "NAME": "St. Michael",
+        "ELEVATION": 715,
+        "TYPE": "Shield volcanoes",
+        "STATUS": "Anthropology",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -162.1225
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -162.12245178232627,
+          63.449256782721754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 11,
+        "NUMBER": "1101-09-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Takawangha",
+        "ELEVATION": 1449,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -178.0025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -178.00254779711574,
+          51.87156677193919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 12,
+        "NUMBER": "1101-10-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Bobrof",
+        "ELEVATION": 738,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -177.4325
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -177.43249479658485,
+          51.90859177197367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 13,
+        "NUMBER": "1104-03-",
+        "LOCATION": "Alaska-W",
+        "NAME": "Ingakslugwat Hills",
+        "ELEVATION": 190,
+        "TYPE": "Cinder cones",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -164.4723
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -164.47233578451477,
+          61.42921078084044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 14,
+        "NUMBER": "1101-11-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Kanaga",
+        "ELEVATION": 1307,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -177.1625
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -177.1625057963334,
+          51.92160077198579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 15,
+        "NUMBER": "1104-02-",
+        "LOCATION": "Alaska-W",
+        "NAME": "Nunivak Island",
+        "ELEVATION": 511,
+        "TYPE": "Shield volcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -166.3323
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -166.33225978624694,
+          60.01919977952726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 16,
+        "NUMBER": "1101-111",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Moffett",
+        "ELEVATION": 1196,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -176.7425
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -176.74247779594222,
+          51.942619772005365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 17,
+        "NUMBER": "1104-01-",
+        "LOCATION": "Alaska-W",
+        "NAME": "St. Paul Island",
+        "ELEVATION": 203,
+        "TYPE": "Shield volcano",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -170.3024
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -170.3023677899444,
+          57.179034776882155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 18,
+        "NUMBER": "1101-112",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Adagdak",
+        "ELEVATION": 610,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -176.5925
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -176.59248379580254,
+          51.98662177204634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 19,
+        "NUMBER": "1101-12-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Great Sitkin",
+        "ELEVATION": 1740,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -176.1325
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -176.13247679537412,
+          52.07465777212833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 20,
+        "NUMBER": "1101-13-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Kasatochi",
+        "ELEVATION": 314,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D4",
+        "test": null,
+        "coor": -175.5024
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.50244179478736,
+          52.17568977222243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 21,
+        "NUMBER": "1101-14-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Koniuji",
+        "ELEVATION": 273,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Uncertain",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -175.1324
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.13243079444274,
+          52.21870777226249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 22,
+        "NUMBER": "1101-15-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Sergief",
+        "ELEVATION": 560,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Uncertain",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -174.9324
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -174.93240379425646,
+          52.02870177208553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 23,
+        "NUMBER": "1101-16-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Atka",
+        "ELEVATION": 1533,
+        "TYPE": "Stratovolcanoes",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -174.1524
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -174.15238979353,
+          52.37974577241247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 24,
+        "NUMBER": "1101-18-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Seguam",
+        "ELEVATION": 1054,
+        "TYPE": "Stratovolcanoes",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -172.5124
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.51240579200265,
+          52.31379677235105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 25,
+        "NUMBER": "1101-19-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Amukta",
+        "ELEVATION": 1066,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -171.2523
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.25234979082913,
+          52.498851772523395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 26,
+        "NUMBER": "1101-20-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Chagulak",
+        "ELEVATION": 1142,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -171.1324
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.1323547907174,
+          52.57585877259511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 27,
+        "NUMBER": "1101-21-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Yunaska",
+        "ELEVATION": 550,
+        "TYPE": "Shield volcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D2",
+        "test": null,
+        "coor": -170.6223
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -170.6223297902424,
+          52.641883772656605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 28,
+        "NUMBER": "1101-23-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Carlisle",
+        "ELEVATION": 1620,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D3",
+        "test": null,
+        "coor": -170.0523
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -170.05227678971147,
+          52.89294077289042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 29,
+        "NUMBER": "1101-25-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Uliaga",
+        "ELEVATION": 888,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -169.7722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -169.7722477894507,
+          53.06397677304971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 30,
+        "NUMBER": "1101-22-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Herbert",
+        "ELEVATION": 1280,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -170.1123
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -170.11227378976736,
+          52.74091377274883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 31,
+        "NUMBER": "1101-24-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Cleveland",
+        "ELEVATION": 1730,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -169.9423
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -169.94226078960904,
+          52.82393277282615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 32,
+        "NUMBER": "1101-26-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Kagamil",
+        "ELEVATION": 893,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D2",
+        "test": null,
+        "coor": -169.7222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -169.7222287894041,
+          52.97296177296494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 33,
+        "NUMBER": "1105-001",
+        "LOCATION": "Alaska-E",
+        "NAME": "Buzzard Creek",
+        "ELEVATION": 830,
+        "TYPE": "Tuff rings",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -148.4223
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.42234776956704,
+          64.06954978329945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 34,
+        "NUMBER": "1101-30-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Bogoslof",
+        "ELEVATION": 150,
+        "TYPE": "Submarine volcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -168.032
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -168.0319517878299,
+          53.92913777385545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 35,
+        "NUMBER": "1101-27-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Vsevidof",
+        "ELEVATION": 2149,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D3",
+        "test": null,
+        "coor": -168.692
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -168.69204678844469,
+          53.12904777311031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 36,
+        "NUMBER": "1101-28-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Recheschnoi",
+        "ELEVATION": 1984,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -168.532
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -168.53201278829562,
+          53.15605877313546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 37,
+        "NUMBER": "1101-29-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Okmok",
+        "ELEVATION": 1073,
+        "TYPE": "Shield volcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -168.132
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -168.13195778792306,
+          53.42909977338976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 38,
+        "NUMBER": "1101-31-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Makushin",
+        "ELEVATION": 1800,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -166.9219
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -166.92188978679607,
+          53.89014777381914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 39,
+        "NUMBER": "1101-311",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Table Top-Wide Bay",
+        "ELEVATION": 792,
+        "TYPE": "Cinder cones",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -166.6719
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -166.67188978656324,
+          53.96713277389084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 40,
+        "NUMBER": "1103-05-",
+        "LOCATION": "Alaska-SW",
+        "NAME": "Hayes",
+        "ELEVATION": 3034,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D6",
+        "test": null,
+        "coor": -152.4122
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.41217077328287,
+          61.6394117810362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 41,
+        "NUMBER": "1101-32-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Akutan",
+        "ELEVATION": 1303,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -165.9819
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -165.9819487859207,
+          54.13312877404543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 42,
+        "NUMBER": "1103-04-",
+        "LOCATION": "Alaska-SW",
+        "NAME": "Spurr",
+        "ELEVATION": 3374,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -152.2521
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.2521357731338,
+          61.298408780718624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 43,
+        "NUMBER": "1101-34-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Westdahl",
+        "ELEVATION": 1654,
+        "TYPE": "Stratovolcano ?",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -164.652
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -164.65196178468204,
+          54.51710177440304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 44,
+        "NUMBER": "1101-35-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Fisher",
+        "ELEVATION": 1112,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D3",
+        "test": null,
+        "coor": -164.432
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -164.43196078447716,
+          54.64910877452598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 45,
+        "NUMBER": "1101-39-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Amak",
+        "ELEVATION": 488,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D4",
+        "test": null,
+        "coor": -163.142
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -163.1420287832758,
+          55.42312277524683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 46,
+        "NUMBER": "1101-36-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Shishaldin",
+        "ELEVATION": 2857,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -163.972
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -163.97198478404877,
+          54.755115774624706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 47,
+        "NUMBER": "1101-37-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Isanotski",
+        "ELEVATION": 2446,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Uncertain",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -163.722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -163.72198478381594,
+          54.764114774633086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 48,
+        "NUMBER": "1103-03-",
+        "LOCATION": "Alaska-SW",
+        "NAME": "Redoubt",
+        "ELEVATION": 3108,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -152.7423
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.7422787735903,
+          60.48440577996052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 49,
+        "NUMBER": "1101-38-",
+        "LOCATION": "Aleutian Is",
+        "NAME": "Roundtop",
+        "ELEVATION": 1871,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -163.582
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -163.58198578368555,
+          54.79911377466568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 50,
+        "NUMBER": "1102-01-",
+        "LOCATION": "Alaska Peninsula",
+        "NAME": "Frosty",
+        "ELEVATION": 2012,
+        "TYPE": "Stratovolcanoes",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -162.812
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -162.81201178296845,
+          55.08112377492832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 51,
+        "NUMBER": "1103-02-",
+        "LOCATION": "Alaska-SW",
+        "NAME": "Iliamna",
+        "ELEVATION": 3053,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D3",
+        "test": null,
+        "coor": -153.0922
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -153.0922237739162,
+          60.031383779538615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 52,
+        "NUMBER": "1102-02-",
+        "LOCATION": "Alaska Peninsula",
+        "NAME": "Emmons Lake",
+        "ELEVATION": 1436,
+        "TYPE": "Caldera",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -162.072
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -162.0720367822793,
+          55.340137775169545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 53,
+        "NUMBER": "1102-04-",
+        "LOCATION": "Alaska Peninsula",
+        "NAME": "Pavlof Sister",
+        "ELEVATION": 2142,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D4",
+        "test": null,
+        "coor": -161.842
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -161.84201078206507,
+          55.45214877527387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 54,
+        "NUMBER": "1102-03-",
+        "LOCATION": "Alaska Peninsula",
+        "NAME": "Pavlof",
+        "ELEVATION": 2519,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -161.882
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -161.88201878210234,
+          55.41914377524313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 55,
+        "NUMBER": "1102-011",
+        "LOCATION": "Alaska Peninsula",
+        "NAME": "Dutton",
+        "ELEVATION": 1506,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -162.272
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -162.27203378246557,
+          55.167125775008415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 56,
+        "NUMBER": "1102-05-",
+        "LOCATION": "Alaska Peninsula",
+        "NAME": "Dana",
+        "ELEVATION": 1354,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -161.212
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -161.21202078147834,
+          55.640166775448975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 57,
+        "NUMBER": "1103-01-",
+        "LOCATION": "Alaska-SW",
+        "NAME": "Augustine",
+        "ELEVATION": 1252,
+        "TYPE": "Lava domes",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -153.4321
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -153.43211377423276,
+          59.36234677891552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 58,
+        "NUMBER": "1102-131",
+        "LOCATION": "Alaska Peninsula",
+        "NAME": "Ukinrek Maars",
+        "ELEVATION": 91,
+        "TYPE": "Maars",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -156.5121
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.5120847771012,
+          57.8312757774896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 59,
+        "NUMBER": "1102-051",
+        "LOCATION": "Alaska Peninsula",
+        "NAME": "Stepovak",
+        "ELEVATION": 1555,
+        "TYPE": "Cinder cones",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -160.002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -160.00204478035147,
+          55.929191775718145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 60,
+        "NUMBER": "1102-06-",
+        "LOCATION": "Alaska Peninsula",
+        "NAME": "Kupreanof",
+        "ELEVATION": 1895,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -159.7921
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.7920527801559,
+          56.01019677579359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 61,
+        "NUMBER": "1102-09-",
+        "LOCATION": "Alaska Peninsula",
+        "NAME": "Aniakchak",
+        "ELEVATION": 1341,
+        "TYPE": "Caldera",
+        "STATUS": "Historical",
+        "TIME_CODE": "D2",
+        "test": null,
+        "coor": -158.1721
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.17205777864717,
+          56.87923077660294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 62,
+        "NUMBER": "1102-08-",
+        "LOCATION": "Alaska Peninsula",
+        "NAME": "Black Peak",
+        "ELEVATION": 1032,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -158.782
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.78204377921526,
+          56.55121277629745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 63,
+        "NUMBER": "1102-13-",
+        "LOCATION": "Alaska Peninsula",
+        "NAME": "Ugashik-Peulik",
+        "ELEVATION": 1474,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D3",
+        "test": null,
+        "coor": -156.3621
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3620907769615,
+          57.75027877741417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 64,
+        "NUMBER": "1102-07-",
+        "LOCATION": "Alaska Peninsula",
+        "NAME": "Veniaminof",
+        "ELEVATION": 2507,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -159.382
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.382003779774,
+          56.169200775941675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 65,
+        "NUMBER": "1102-19-",
+        "LOCATION": "Alaska Peninsula",
+        "NAME": "Griggs",
+        "ELEVATION": 2317,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -155.092
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.09204077577868,
+          58.35330577797578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 66,
+        "NUMBER": "1102-14-",
+        "LOCATION": "Alaska Peninsula",
+        "NAME": "Martin",
+        "ELEVATION": 1863,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D2",
+        "test": null,
+        "coor": -155.3621
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.36206077603015,
+          58.17129877780627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 67,
+        "NUMBER": "1102-18-",
+        "LOCATION": "Alaska Peninsula",
+        "NAME": "Novarupta",
+        "ELEVATION": 841,
+        "TYPE": "Caldera",
+        "STATUS": "Historical",
+        "TIME_CODE": "D2",
+        "test": null,
+        "coor": -155.152
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.15203877583457,
+          58.26930277789754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 68,
+        "NUMBER": "1102-15-",
+        "LOCATION": "Alaska Peninsula",
+        "NAME": "Mageik",
+        "ELEVATION": 2165,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -155.2521
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.2520597759277,
+          58.1943017778277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 69,
+        "NUMBER": "1102-16-",
+        "LOCATION": "Alaska Peninsula",
+        "NAME": "Trident",
+        "ELEVATION": 1864,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -155.1021
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.102050775788,
+          58.23530177786588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 70,
+        "NUMBER": "1102-17-",
+        "LOCATION": "Alaska Peninsula",
+        "NAME": "Katmai",
+        "ELEVATION": 2047,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D2",
+        "test": null,
+        "coor": -154.9621
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.9620517756576,
+          58.27930477790686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 71,
+        "NUMBER": "1102-20-",
+        "LOCATION": "Alaska Peninsula",
+        "NAME": "Snowy Mountain",
+        "ELEVATION": 2162,
+        "TYPE": "Stratovolcanoes",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -154.682
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.68202177539683,
+          58.33531177795902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 72,
+        "NUMBER": "1102-27-",
+        "LOCATION": "Alaska Peninsula",
+        "NAME": "Douglas",
+        "ELEVATION": 2140,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -153.5421
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -153.54206877433515,
+          58.85433177844239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 73,
+        "NUMBER": "1102-21-",
+        "LOCATION": "Alaska Peninsula",
+        "NAME": "Denison",
+        "ELEVATION": 2287,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Uncertain",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -154.442
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.44203177517332,
+          58.41731677803539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 74,
+        "NUMBER": "1102-26-",
+        "LOCATION": "Alaska Peninsula",
+        "NAME": "Fourpeaked",
+        "ELEVATION": 2105,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -153.6721
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -153.67207377445624,
+          58.76932877836323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 75,
+        "NUMBER": "1102-25-",
+        "LOCATION": "Alaska Peninsula",
+        "NAME": "Kaguyak",
+        "ELEVATION": 901,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -154.0221
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.0220637747822,
+          58.60732277821235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 76,
+        "NUMBER": "1102-22-",
+        "LOCATION": "Alaska Peninsula",
+        "NAME": "Steller",
+        "ELEVATION": 2272,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -154.402
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.40202377513606,
+          58.429317778046574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 77,
+        "NUMBER": "1102-23-",
+        "LOCATION": "Alaska Peninsula",
+        "NAME": "Kukak",
+        "ELEVATION": 2043,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Fumarolic",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -154.352
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.3520357750895,
+          58.45231677806799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 78,
+        "NUMBER": "1102-11-",
+        "LOCATION": "Alaska Peninsula",
+        "NAME": "Chiginagak",
+        "ELEVATION": 2221,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -156.9921
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.99206577754822,
+          57.134261776840454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 79,
+        "NUMBER": "1102-10-",
+        "LOCATION": "Alaska Peninsula",
+        "NAME": "Yantarni",
+        "ELEVATION": 1345,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Tephrochronology",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -157.1821
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.18205277772515,
+          57.01825677673242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 80,
+        "NUMBER": "1102-132",
+        "LOCATION": "Alaska Peninsula",
+        "NAME": "Unnamed",
+        "ELEVATION": 300,
+        "TYPE": "Lava dome",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -155.4221
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.42207377608605,
+          57.86929677752501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 81,
+        "NUMBER": "1102-12-",
+        "LOCATION": "Alaska Peninsula",
+        "NAME": "Kialagvik",
+        "ELEVATION": 1677,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -156.7421
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.7420657773154,
+          57.202270776903795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 82,
+        "NUMBER": "1105-01-",
+        "LOCATION": "Alaska-E",
+        "NAME": "Sanford",
+        "ELEVATION": 4949,
+        "TYPE": "Shield volcano",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -144.1321
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -144.13212576557146,
+          62.21958178157653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 83,
+        "NUMBER": "1105-02-",
+        "LOCATION": "Alaska-E",
+        "NAME": "Wrangell",
+        "ELEVATION": 4317,
+        "TYPE": "Shield volcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D2",
+        "test": null,
+        "coor": -144.0221
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -144.022109765469,
+          61.999557781371614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 84,
+        "NUMBER": "1105-021",
+        "LOCATION": "Alaska-E",
+        "NAME": "Gordon",
+        "ELEVATION": 2755,
+        "TYPE": "Cinder cones",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -143.0821
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -143.08212276459358,
+          62.12960478149273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 85,
+        "NUMBER": "1200-01-",
+        "LOCATION": "Canada",
+        "NAME": "Fort Selkirk",
+        "ELEVATION": 1239,
+        "TYPE": "Volcanic field",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -137.3821
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -137.38207975928498,
+          62.92973678223792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 86,
+        "NUMBER": "1105-03-",
+        "LOCATION": "Alaska-E",
+        "NAME": "Churchill",
+        "ELEVATION": 5005,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D6",
+        "test": null,
+        "coor": -141.752
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -141.75204476335483,
+          61.37960478079424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 87,
+        "NUMBER": "1200-02-",
+        "LOCATION": "Canada",
+        "NAME": "Alligator Lake",
+        "ELEVATION": 2217,
+        "TYPE": "Volcanic field",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -135.4219
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.42189075745944,
+          60.41969277990025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 88,
+        "NUMBER": "1200-03-",
+        "LOCATION": "Canada",
+        "NAME": "Atlin Volc Field",
+        "ELEVATION": 1880,
+        "TYPE": "Cinder cones",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -133.3218
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.32180775550358,
+          59.679725779211104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 89,
+        "NUMBER": "1200-031",
+        "LOCATION": "Canada",
+        "NAME": "Tuya Volc Field",
+        "ELEVATION": 2123,
+        "TYPE": "Volcanic field",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -130.5818
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.58178675295173,
+          59.369773778922436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 90,
+        "NUMBER": "1200-04-",
+        "LOCATION": "Canada",
+        "NAME": "Heart Peaks",
+        "ELEVATION": 2012,
+        "TYPE": "Shield volcano",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -131.9717
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -131.97172575424622,
+          58.599712778205266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 91,
+        "NUMBER": "1200-05-",
+        "LOCATION": "Canada",
+        "NAME": "Level Mountain",
+        "ELEVATION": 2190,
+        "TYPE": "Shield volcano",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -131.3517
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -131.3517307536688,
+          58.41971977803763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 92,
+        "NUMBER": "1105-04-",
+        "LOCATION": "Alaska-E",
+        "NAME": "Edgecumbe",
+        "ELEVATION": 970,
+        "TYPE": "Stratovolcanoes",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -135.7518
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.75180075776666,
+          57.04964077676165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 93,
+        "NUMBER": "1200-06-",
+        "LOCATION": "Canada",
+        "NAME": "Edziza",
+        "ELEVATION": 2786,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D6",
+        "test": null,
+        "coor": -130.6317
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.63171375299822,
+          57.71972277738571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 94,
+        "NUMBER": "1200-07-",
+        "LOCATION": "Canada",
+        "NAME": "Spectrum Range",
+        "ELEVATION": 2430,
+        "TYPE": "Shield volcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -130.6817
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.68170175304476,
+          57.429710777115616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 95,
+        "NUMBER": "1105-05-",
+        "LOCATION": "Alaska-E",
+        "NAME": "Duncan Canal",
+        "ELEVATION": 15,
+        "TYPE": "Volcanic field",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -133.1017
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.1017307552986,
+          56.499652776249434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 96,
+        "NUMBER": "1200-08-",
+        "LOCATION": "Canada",
+        "NAME": "Hoodoo Mountain",
+        "ELEVATION": 1850,
+        "TYPE": "Subglacial volcano",
+        "STATUS": "Tephrochronology",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -131.2817
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -131.28170775360357,
+          56.77968177651023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 97,
+        "NUMBER": "1200-09-",
+        "LOCATION": "Canada",
+        "NAME": "Iskut-Unuk River Cones",
+        "ELEVATION": 1880,
+        "TYPE": "Cinder cones",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D3",
+        "test": null,
+        "coor": -130.5517
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.55171175292372,
+          56.579684776323965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 98,
+        "NUMBER": "1105-06-",
+        "LOCATION": "Alaska-E",
+        "NAME": "Tlevak Strait-Suemez Is.",
+        "ELEVATION": 50,
+        "TYPE": "Volcanic field",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -133.3017
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.3016667554848,
+          55.24965277508528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 99,
+        "NUMBER": "1105-07-",
+        "LOCATION": "Alaska-E",
+        "NAME": "Behm Canal-Rudyerd Bay",
+        "ELEVATION": 500,
+        "TYPE": "Cinder cones",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -131.0517
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -131.05169675338936,
+          55.31966377515048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 100,
+        "NUMBER": "1200-10-",
+        "LOCATION": "Canada",
+        "NAME": "Tseax River Cone",
+        "ELEVATION": 609,
+        "TYPE": "Pyroclastic cone",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D4",
+        "test": null,
+        "coor": -128.9017
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -128.901672751387,
+          55.119773774964315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 101,
+        "NUMBER": "1200-11-",
+        "LOCATION": "Canada",
+        "NAME": "Crow Lagoon",
+        "ELEVATION": 335,
+        "TYPE": "Pyroclastic cone",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -130.2317
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.23168975262567,
+          54.69971477457311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 102,
+        "NUMBER": "1200-12-",
+        "LOCATION": "Canada",
+        "NAME": "Milbanke Sound Group",
+        "ELEVATION": 335,
+        "TYPE": "Cinder cones",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -128.7316
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -128.73161275122862,
+          52.499751772524235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 103,
+        "NUMBER": "1200-14-",
+        "LOCATION": "Canada",
+        "NAME": "Nazko",
+        "ELEVATION": 1230,
+        "TYPE": "Cinder cones",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -123.73
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.7300037465705,
+          52.90000177289699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 104,
+        "NUMBER": "1200-13-",
+        "LOCATION": "Canada",
+        "NAME": "Satah Mountain",
+        "ELEVATION": 1921,
+        "TYPE": "Volcanic field",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -124.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.69999674747388,
+          52.470000772496526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 105,
+        "NUMBER": "1200-16-",
+        "LOCATION": "Canada",
+        "NAME": "Silverthrone",
+        "ELEVATION": 3160,
+        "TYPE": "Caldera",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -126.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -126.300002748964,
+          51.43000077152795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 106,
+        "NUMBER": "1200-15-",
+        "LOCATION": "Canada",
+        "NAME": "Wells Gray-Clearwater",
+        "ELEVATION": 2015,
+        "TYPE": "Cinder cones",
+        "STATUS": "Dendrochronology",
+        "TIME_CODE": "D5",
+        "test": null,
+        "coor": -120.57
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.56999974362752,
+          52.33000177236614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 107,
+        "NUMBER": "1200-17-",
+        "LOCATION": "Canada",
+        "NAME": "Bridge River Cones",
+        "ELEVATION": 2500,
+        "TYPE": "Volcanic field",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -123.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.40000174626317,
+          50.799998770941215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 108,
+        "NUMBER": "1200-18-",
+        "LOCATION": "Canada",
+        "NAME": "Meager",
+        "ELEVATION": 2680,
+        "TYPE": "Complex volcano",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -123.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.4999997463563,
+          50.63000077078289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 109,
+        "NUMBER": "1200-19-",
+        "LOCATION": "Canada",
+        "NAME": "Garibaldi Lake",
+        "ELEVATION": 2316,
+        "TYPE": "Volcanic field",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -123.0313
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0313107459198,
+          49.91983077012149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 110,
+        "NUMBER": "1200-20-",
+        "LOCATION": "Canada",
+        "NAME": "Garibaldi",
+        "ELEVATION": 2678,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -123.0013
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00131274589185,
+          49.8498307700563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 111,
+        "NUMBER": "1201-01=",
+        "LOCATION": "US-Washington",
+        "NAME": "Baker",
+        "ELEVATION": 3285,
+        "TYPE": "Stratovolcanoes",
+        "STATUS": "Historical",
+        "TIME_CODE": "D3",
+        "test": null,
+        "coor": -121.8113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.81125674478353,
+          48.776843769057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 112,
+        "NUMBER": "1301-01-",
+        "LOCATION": "Pacific-NE",
+        "NAME": "CoAxial Segment",
+        "ELEVATION": -2400,
+        "TYPE": "Submarine volcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -129.5815
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -129.58149675202014,
+          46.51977876695495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 113,
+        "NUMBER": "1201-02-",
+        "LOCATION": "US-Washington",
+        "NAME": "Glacier Peak",
+        "ELEVATION": 3213,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Tephrochronology",
+        "TIME_CODE": "D4",
+        "test": null,
+        "coor": -121.1112
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.11121374413156,
+          48.11183976843767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 114,
+        "NUMBER": "1301-011",
+        "LOCATION": "Pacific-NE",
+        "NAME": "Axial Seamount",
+        "ELEVATION": -1410,
+        "TYPE": "Submarine volcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -130.0015
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.0015107524113,
+          45.9497837664241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 115,
+        "NUMBER": "1201-03-",
+        "LOCATION": "US-Washington",
+        "NAME": "Rainier",
+        "ELEVATION": 4392,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Dendrochronology",
+        "TIME_CODE": "D3",
+        "test": null,
+        "coor": -121.7512
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7512057447276,
+          46.86982776728096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 116,
+        "NUMBER": "1301-02-",
+        "LOCATION": "Pacific-NE",
+        "NAME": "Cleft Segment",
+        "ELEVATION": -2140,
+        "TYPE": "Submarine volcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -130.3015
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.3014987526907,
+          44.82979976538103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 117,
+        "NUMBER": "1201-05-",
+        "LOCATION": "US-Washington",
+        "NAME": "St. Helens",
+        "ELEVATION": 2549,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -122.1812
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.18120574512807,
+          46.199832766656975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 118,
+        "NUMBER": "1201-04-",
+        "LOCATION": "US-Washington",
+        "NAME": "Adams",
+        "ELEVATION": 3742,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Tephrochronology",
+        "TIME_CODE": "D6",
+        "test": null,
+        "coor": -121.4912
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.49119574448545,
+          46.20584476666257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 119,
+        "NUMBER": "1201-06-",
+        "LOCATION": "US-Washington",
+        "NAME": "West Crater",
+        "ELEVATION": 1329,
+        "TYPE": "Volcanic field",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -122.0812
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.08119974503494,
+          45.879836766358956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 120,
+        "NUMBER": "1201-07-",
+        "LOCATION": "US-Washington",
+        "NAME": "Indian Heaven",
+        "ELEVATION": 1806,
+        "TYPE": "Shield volcanoes",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -121.8212
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.82118974479278,
+          45.92983976640552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 121,
+        "NUMBER": "1202-01-",
+        "LOCATION": "US-Oregon",
+        "NAME": "Hood",
+        "ELEVATION": 3426,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D3",
+        "test": null,
+        "coor": -121.6912
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.69119274467171,
+          45.373840765887714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 122,
+        "NUMBER": "1202-02-",
+        "LOCATION": "US-Oregon",
+        "NAME": "Jefferson",
+        "ELEVATION": 3199,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Varve Count",
+        "TIME_CODE": "D6",
+        "test": null,
+        "coor": -121.8012
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.80117774477415,
+          44.69184076525255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 123,
+        "NUMBER": "1202-03-",
+        "LOCATION": "US-Oregon",
+        "NAME": "Blue Lake Crater",
+        "ELEVATION": 1230,
+        "TYPE": "Maar",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -121.7712
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.77116374474619,
+          44.41983776499922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 124,
+        "NUMBER": "1202-04-",
+        "LOCATION": "US-Oregon",
+        "NAME": "Sand Mountain Field",
+        "ELEVATION": 1664,
+        "TYPE": "Cinder cones",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -121.9312
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.93117474489522,
+          44.37984476496198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 125,
+        "NUMBER": "1202-05-",
+        "LOCATION": "US-Oregon",
+        "NAME": "Washington",
+        "ELEVATION": 2376,
+        "TYPE": "Shield volcano",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D6",
+        "test": null,
+        "coor": -121.8312
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.83116874480208,
+          44.331840764917274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 126,
+        "NUMBER": "1202-06-",
+        "LOCATION": "US-Oregon",
+        "NAME": "Belknap",
+        "ELEVATION": 2095,
+        "TYPE": "Shield volcanoes",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D6",
+        "test": null,
+        "coor": -121.8412
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.84116374481138,
+          44.284839764873496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 127,
+        "NUMBER": "1202-07-",
+        "LOCATION": "US-Oregon",
+        "NAME": "North Sister Field",
+        "ELEVATION": 3074,
+        "TYPE": "Complex volcano",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D6",
+        "test": null,
+        "coor": -121.7711
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.77114874474617,
+          44.16983776476639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 128,
+        "NUMBER": "1202-08-",
+        "LOCATION": "US-Oregon",
+        "NAME": "South Sister",
+        "ELEVATION": 3157,
+        "TYPE": "Complex volcano",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -121.7711
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.77114874474617,
+          44.0998377647012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 129,
+        "NUMBER": "1202-09-",
+        "LOCATION": "US-Oregon",
+        "NAME": "Bachelor",
+        "ELEVATION": 2763,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Tephrochronology",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -121.6811
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.68114474466236,
+          43.97883576458851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 130,
+        "NUMBER": "1301-021",
+        "LOCATION": "Pacific-NE",
+        "NAME": "North Gorda Ridge",
+        "ELEVATION": -3000,
+        "TYPE": "Submarine volcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -126.7813
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -126.78130374941225,
+          42.669830763369404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 131,
+        "NUMBER": "1202-11-",
+        "LOCATION": "US-Oregon",
+        "NAME": "Newberry Volcano",
+        "ELEVATION": 2434,
+        "TYPE": "Shield volcano",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D6",
+        "test": null,
+        "coor": -121.2211
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.22113074423393,
+          43.72184376434917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 132,
+        "NUMBER": "1202-10-",
+        "LOCATION": "US-Oregon",
+        "NAME": "Davis Lake",
+        "ELEVATION": 2163,
+        "TYPE": "Volcanic field",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -121.8211
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.82113674479274,
+          43.569843764207604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 133,
+        "NUMBER": "1202-12-",
+        "LOCATION": "US-Oregon",
+        "NAME": "Devils Garden",
+        "ELEVATION": 1698,
+        "TYPE": "Volcanic field",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -120.8611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.86111474389864,
+          43.5118557641536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 134,
+        "NUMBER": "1202-15-",
+        "LOCATION": "US-Oregon",
+        "NAME": "Cinnamon Butte",
+        "ELEVATION": 1956,
+        "TYPE": "Cinder cones",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -122.1011
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.10114274505351,
+          43.240848763901205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 135,
+        "NUMBER": "1202-13-",
+        "LOCATION": "US-Oregon",
+        "NAME": "Squaw Ridge Lava Field",
+        "ELEVATION": 1711,
+        "TYPE": "Volcanic field",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -120.7511
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.75110674379619,
+          43.47185876411635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 136,
+        "NUMBER": "1202-14-",
+        "LOCATION": "US-Oregon",
+        "NAME": "Four Craters Lava Field",
+        "ELEVATION": 1501,
+        "TYPE": "Volcanic field",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -120.6611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.66110274371238,
+          43.36086276401298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 137,
+        "NUMBER": "1202-16-",
+        "LOCATION": "US-Oregon",
+        "NAME": "Crater Lake",
+        "ELEVATION": 2487,
+        "TYPE": "Caldera",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -122.1211
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.12113974507213,
+          42.929851763611566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 138,
+        "NUMBER": "1205-01-",
+        "LOCATION": "US-Wyoming",
+        "NAME": "Yellowstone",
+        "ELEVATION": 2805,
+        "TYPE": "Calderas",
+        "STATUS": "Tephrochronology",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -110.6708
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.67076073440813,
+          44.42993976500863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 139,
+        "NUMBER": "1302-09-",
+        "LOCATION": "Hawaiian Is",
+        "NAME": "Unnamed",
+        "ELEVATION": -4000,
+        "TYPE": "Submarine volcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D2",
+        "test": null,
+        "coor": -163.83
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -163.83000178391654,
+          23.579999745590612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 140,
+        "NUMBER": "1202-17-",
+        "LOCATION": "US-Oregon",
+        "NAME": "Diamond Craters",
+        "ELEVATION": 1435,
+        "TYPE": "Volcanic field",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -118.751
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.75103774193349,
+          43.09987676376991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 141,
+        "NUMBER": "1202-19-",
+        "LOCATION": "US-Oregon",
+        "NAME": "Jordan Craters",
+        "ELEVATION": 1473,
+        "TYPE": "Volcanic field",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -117.471
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.47099274074134,
+          43.149879763816486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 142,
+        "NUMBER": "1202-18-",
+        "LOCATION": "US-Oregon",
+        "NAME": "Saddle Butte",
+        "ELEVATION": 1700,
+        "TYPE": "Volcanic field",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -117.801
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.80100274104869,
+          42.999877763676785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 143,
+        "NUMBER": "1204-02-",
+        "LOCATION": "US-Idaho",
+        "NAME": "Craters of the Moon",
+        "ELEVATION": 2005,
+        "TYPE": "Cinder cones",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -113.5008
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.50084673704386,
+          43.41990276406796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 144,
+        "NUMBER": "1204-04-",
+        "LOCATION": "US-Idaho",
+        "NAME": "Hell's Half Acre",
+        "ELEVATION": 1631,
+        "TYPE": "Shield volcano",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -112.4508
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.45081373606594,
+          43.499911764142475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 145,
+        "NUMBER": "1204-01-",
+        "LOCATION": "US-Idaho",
+        "NAME": "Shoshone Lava Field",
+        "ELEVATION": 1478,
+        "TYPE": "Shield volcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -114.3509
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.35087573783551,
+          43.17990476384445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 146,
+        "NUMBER": "1202-20-",
+        "LOCATION": "US-Oregon",
+        "NAME": "Jackies Butte",
+        "ELEVATION": 1418,
+        "TYPE": "Volcanic field",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -117.581
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.58098574084379,
+          42.605876763309844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 147,
+        "NUMBER": "1203-02-",
+        "LOCATION": "US-California",
+        "NAME": "Medicine Lake",
+        "ELEVATION": 2412,
+        "TYPE": "Shield volcano",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D6",
+        "test": null,
+        "coor": -121.5711
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.57110574455987,
+          41.579883762354314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 148,
+        "NUMBER": "1204-03-",
+        "LOCATION": "US-Idaho",
+        "NAME": "Wapi Lava Field",
+        "ELEVATION": 1604,
+        "TYPE": "Shield volcano",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -113.2208
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.22083273678308,
+          42.87990976356505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 149,
+        "NUMBER": "1203-01-",
+        "LOCATION": "US-California",
+        "NAME": "Shasta",
+        "ELEVATION": 4317,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D4",
+        "test": null,
+        "coor": -122.2011
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.20111874514662,
+          41.41987276220529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 150,
+        "NUMBER": "1203-03-",
+        "LOCATION": "US-California",
+        "NAME": "Brushy Butte",
+        "ELEVATION": 1174,
+        "TYPE": "Shield volcano",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -121.4411
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4411007444388,
+          41.17788676197992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 151,
+        "NUMBER": "1203-04-",
+        "LOCATION": "US-California",
+        "NAME": "Big Cave",
+        "ELEVATION": 1259,
+        "TYPE": "Shield volcano",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -121.3611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.36109174436427,
+          40.95488776177224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 152,
+        "NUMBER": "1203-05-",
+        "LOCATION": "US-California",
+        "NAME": "Twin Buttes",
+        "ELEVATION": 1631,
+        "TYPE": "Cinder cones",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -121.6011
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.6010967445878,
+          40.77988076160925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 153,
+        "NUMBER": "1203-06-",
+        "LOCATION": "US-California",
+        "NAME": "Tumble Buttes",
+        "ELEVATION": 2191,
+        "TYPE": "Cinder cones",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -121.5511
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.55109374454123,
+          40.67988176151612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 154,
+        "NUMBER": "1203-09-",
+        "LOCATION": "US-California",
+        "NAME": "Eagle Lake Field",
+        "ELEVATION": 1652,
+        "TYPE": "Fissure vents",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -120.8311
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.83106974387067,
+          40.62989376146956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 155,
+        "NUMBER": "1203-08-",
+        "LOCATION": "US-California",
+        "NAME": "Lassen Volc Center",
+        "ELEVATION": 3187,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D2",
+        "test": null,
+        "coor": -121.5011
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.50109074449466,
+          40.49188276134103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 156,
+        "NUMBER": "1203-10-",
+        "LOCATION": "US-California",
+        "NAME": "Clear Lake",
+        "ELEVATION": 1439,
+        "TYPE": "Volcanic field",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -122.7711
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.77109574567746,
+          38.96989775992357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 157,
+        "NUMBER": "1206-01-",
+        "LOCATION": "US-Nevada",
+        "NAME": "Steamboat Springs",
+        "ELEVATION": 1415,
+        "TYPE": "Lava domes",
+        "STATUS": "Pleistocene-Fumarolic",
+        "TIME_CODE": "Q",
+        "test": null,
+        "coor": -119.721
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.72101574283684,
+          39.374912760300774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 158,
+        "NUMBER": "1302-08-",
+        "LOCATION": "Hawaiian Is",
+        "NAME": "Unnamed",
+        "ELEVATION": -3000,
+        "TYPE": "Submarine volcano ?",
+        "STATUS": "Uncertain",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -158.7472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.74723777918285,
+          21.746478743883014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 159,
+        "NUMBER": "1208-01-",
+        "LOCATION": "US-Colorado",
+        "NAME": "Dotsero",
+        "ELEVATION": 2230,
+        "TYPE": "Maar",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -107.0306
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.03060173101797,
+          39.649986760556956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 160,
+        "NUMBER": "1203-11-",
+        "LOCATION": "US-California",
+        "NAME": "Mono Lake Volc Field",
+        "ELEVATION": 2121,
+        "TYPE": "Cinder cones",
+        "STATUS": "Tephrochronology",
+        "TIME_CODE": "D4",
+        "test": null,
+        "coor": -119.031
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.03097574219419,
+          37.99992375902022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 161,
+        "NUMBER": "1207-05-",
+        "LOCATION": "US-Utah",
+        "NAME": "Black Rock Desert",
+        "ELEVATION": 1800,
+        "TYPE": "Volcanic field",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D6",
+        "test": null,
+        "coor": -112.5008
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.50077773611247,
+          38.96996275992363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 162,
+        "NUMBER": "1203-12-",
+        "LOCATION": "US-California",
+        "NAME": "Mono Craters",
+        "ELEVATION": 2796,
+        "TYPE": "Lava domes",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D6",
+        "test": null,
+        "coor": -119.001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.00097674216624,
+          37.87992875890846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 163,
+        "NUMBER": "1203-13-",
+        "LOCATION": "US-California",
+        "NAME": "Inyo Craters",
+        "ELEVATION": 2629,
+        "TYPE": "Lava domes",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D6",
+        "test": null,
+        "coor": -119.021
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.02096574218487,
+          37.69193675873338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 164,
+        "NUMBER": "1203-14-",
+        "LOCATION": "US-California",
+        "NAME": "Long Valley",
+        "ELEVATION": 3390,
+        "TYPE": "Caldera",
+        "STATUS": "Pleistocene-Fumarolic",
+        "TIME_CODE": "Q",
+        "test": null,
+        "coor": -118.871
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.87097174204519,
+          37.699931758740824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 165,
+        "NUMBER": "1203-15-",
+        "LOCATION": "US-California",
+        "NAME": "Red Cones",
+        "ELEVATION": 2748,
+        "TYPE": "Cinder cones",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -119.051
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.05096474221281,
+          37.57994075862908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 166,
+        "NUMBER": "1302-07-",
+        "LOCATION": "Hawaiian Is",
+        "NAME": "Koolau",
+        "ELEVATION": 941,
+        "TYPE": "Shield volcano",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -157.7973
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.7972567782981,
+          21.36683074352944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 167,
+        "NUMBER": "1203-16-",
+        "LOCATION": "US-California",
+        "NAME": "Ubehebe Craters",
+        "ELEVATION": 752,
+        "TYPE": "Maars",
+        "STATUS": "Anthropology",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -117.4509
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.45090474072263,
+          37.01993575810753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 168,
+        "NUMBER": "1207-04-",
+        "LOCATION": "US-Utah",
+        "NAME": "Markagunt Plateau",
+        "ELEVATION": 2840,
+        "TYPE": "Volcanic field",
+        "STATUS": "Dendrochronology",
+        "TIME_CODE": "D6",
+        "test": null,
+        "coor": -112.6708
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.67076873627079,
+          37.579982758629114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 169,
+        "NUMBER": "1207-01-",
+        "LOCATION": "US-Utah",
+        "NAME": "Santa Clara",
+        "ELEVATION": 1465,
+        "TYPE": "Volcanic field",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -113.6208
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.62079573715558,
+          37.2569807583283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 170,
+        "NUMBER": "1207-03-",
+        "LOCATION": "US-Utah",
+        "NAME": "Bald Knoll",
+        "ELEVATION": 2135,
+        "TYPE": "Cinder cones",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -112.4008
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.40075673601932,
+          37.32797975839442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 171,
+        "NUMBER": "1203-17-",
+        "LOCATION": "US-California",
+        "NAME": "Golden Trout Creek",
+        "ELEVATION": 2886,
+        "TYPE": "Volcanic field",
+        "STATUS": "Tephrochronology",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -118.3209
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.32092274153291,
+          36.357940757490994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 172,
+        "NUMBER": "1302-05-",
+        "LOCATION": "Hawaiian Is",
+        "NAME": "Kahoolawe",
+        "ELEVATION": 450,
+        "TYPE": "Shield volcano",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -156.5672
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.5671847771525,
+          20.56681674278437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 173,
+        "NUMBER": "1203-18-",
+        "LOCATION": "US-California",
+        "NAME": "Coso Volc Field",
+        "ELEVATION": 2400,
+        "TYPE": "Lava domes",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -117.8209
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.82090774106723,
+          36.02994575718553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 174,
+        "NUMBER": "1302-06-",
+        "LOCATION": "Hawaiian Is",
+        "NAME": "Haleakala",
+        "ELEVATION": 3055,
+        "TYPE": "Shield volcano",
+        "STATUS": "Anthropology",
+        "TIME_CODE": "D4",
+        "test": null,
+        "coor": -156.2472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.2471927768545,
+          20.704805742912882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 175,
+        "NUMBER": "1209-01-",
+        "LOCATION": "US-Arizona",
+        "NAME": "Uinkaret Field",
+        "ELEVATION": 1555,
+        "TYPE": "Volcanic field",
+        "STATUS": "Anthropology",
+        "TIME_CODE": "D6",
+        "test": null,
+        "coor": -113.1308
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.13075973669919,
+          36.37998175751153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 176,
+        "NUMBER": "1302-04-",
+        "LOCATION": "Hawaiian Is",
+        "NAME": "Hualalai",
+        "ELEVATION": 2523,
+        "TYPE": "Shield volcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D3",
+        "test": null,
+        "coor": -155.8672
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.8672177765006,
+          19.688962741966805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 177,
+        "NUMBER": "1302-03-",
+        "LOCATION": "Hawaiian Is",
+        "NAME": "Mauna Kea",
+        "ELEVATION": 4205,
+        "TYPE": "Shield volcano",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -155.4672
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4672237761281,
+          19.816951742086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 178,
+        "NUMBER": "1203-19-",
+        "LOCATION": "US-California",
+        "NAME": "Lavic Lake",
+        "ELEVATION": 1495,
+        "TYPE": "Volcanic field",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -116.6209
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.62086473994961,
+          34.74998875599348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 179,
+        "NUMBER": "1210-03-",
+        "LOCATION": "US-New Mexico",
+        "NAME": "Valles Caldera",
+        "ELEVATION": 3430,
+        "TYPE": "Caldera",
+        "STATUS": "Pleistocene-Fumarolic",
+        "TIME_CODE": "Q",
+        "test": null,
+        "coor": -106.5706
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.57058673058955,
+          35.87002175703659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 180,
+        "NUMBER": "1209-02-",
+        "LOCATION": "US-Arizona",
+        "NAME": "Sunset Crater",
+        "ELEVATION": 2447,
+        "TYPE": "Cinder cone",
+        "STATUS": "Dendrochronology",
+        "TIME_CODE": "D6",
+        "test": null,
+        "coor": -111.5007
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.50070973518109,
+          35.370006756570916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 181,
+        "NUMBER": "1302-02=",
+        "LOCATION": "Hawaiian Is",
+        "NAME": "Mauna Loa",
+        "ELEVATION": 4170,
+        "TYPE": "Shield volcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -155.5972
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.59722877624918,
+          19.471971741764712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 182,
+        "NUMBER": "1302-01-",
+        "LOCATION": "Hawaiian Is",
+        "NAME": "Kilauea",
+        "ELEVATION": 1222,
+        "TYPE": "Shield volcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -155.2872
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.28721577596045,
+          19.42197574171815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 183,
+        "NUMBER": "1203-20-",
+        "LOCATION": "US-California",
+        "NAME": "Amboy",
+        "ELEVATION": 288,
+        "TYPE": "Cinder cone",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -115.7808
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.78083073916726,
+          34.54999175580721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 184,
+        "NUMBER": "1302-00-",
+        "LOCATION": "Hawaiian Is",
+        "NAME": "Loihi",
+        "ELEVATION": -975,
+        "TYPE": "Submarine volcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -155.2672
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.26722677594182,
+          18.91723974124808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 185,
+        "NUMBER": "1210-02-",
+        "LOCATION": "US-New Mexico",
+        "NAME": "Zuni-Bandera",
+        "ELEVATION": 2550,
+        "TYPE": "Volcanic field",
+        "STATUS": "Anthropology",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -108.0006
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.00061773192137,
+          34.800044756040094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 186,
+        "NUMBER": "1301-03-",
+        "LOCATION": "Pacific-NE",
+        "NAME": "Unnamed",
+        "ELEVATION": -2533,
+        "TYPE": "Submarine volcano ?",
+        "STATUS": "Uncertain",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -124.251
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.25103774705576,
+          31.75004575319956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 187,
+        "NUMBER": "1210-01-",
+        "LOCATION": "US-New Mexico",
+        "NAME": "Carrizozo",
+        "ELEVATION": 1731,
+        "TYPE": "Cinder cone",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -105.9305
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.93054972999347,
+          33.78007175509017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 188,
+        "NUMBER": "1401-00-",
+        "LOCATION": "Mexico",
+        "NAME": "Prieto, Cerro",
+        "ELEVATION": 223,
+        "TYPE": "Lava dome",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -115.3008
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.30081973872021,
+          32.4180607538217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 189,
+        "NUMBER": "1401-001",
+        "LOCATION": "Mexico",
+        "NAME": "Pinacate",
+        "ELEVATION": 1200,
+        "TYPE": "Cinder cones",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -113.4907
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.49073773703445,
+          31.77206775322007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 190,
+        "NUMBER": "1401-002",
+        "LOCATION": "Mexico",
+        "NAME": "San Quintin Volc Field",
+        "ELEVATION": 260,
+        "TYPE": "Cinder cones",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -115.9908
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.9907917393628,
+          30.468106752005664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 191,
+        "NUMBER": "1401-003",
+        "LOCATION": "Mexico",
+        "NAME": "San Luis, Isla",
+        "ELEVATION": 180,
+        "TYPE": "Tuff cone",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -114.3807
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3807147378633,
+          29.81411975139659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 192,
+        "NUMBER": "1401-006",
+        "LOCATION": "Mexico",
+        "NAME": "Guadalupe",
+        "ELEVATION": 1100,
+        "TYPE": "Shield volcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -118.2808
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.28080774149555,
+          29.07012375070369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 193,
+        "NUMBER": "1401-004",
+        "LOCATION": "Mexico",
+        "NAME": "Jaraguay Volc Field",
+        "ELEVATION": 960,
+        "TYPE": "Cinder cones",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -114.5007
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.50070973797506,
+          29.330131750945842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 194,
+        "NUMBER": "1401-005",
+        "LOCATION": "Mexico",
+        "NAME": "Coronado",
+        "ELEVATION": 440,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Fumarolic",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -113.5107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.51067373705301,
+          29.08013875071302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 195,
+        "NUMBER": "1401-007",
+        "LOCATION": "Mexico",
+        "NAME": "San Borja Volc Field",
+        "ELEVATION": 1360,
+        "TYPE": "Cinder cones",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -113.7507
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.75065573727652,
+          28.50015075017286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 196,
+        "NUMBER": "1401-008",
+        "LOCATION": "Mexico",
+        "NAME": "Unnamed",
+        "ELEVATION": 0,
+        "TYPE": "Submarine volcano ?",
+        "STATUS": "Uncertain",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -115.0007
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.00067873844068,
+          28.000158749707207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 197,
+        "NUMBER": "1401-01=",
+        "LOCATION": "Mexico",
+        "NAME": "Tres Virgenes",
+        "ELEVATION": 1940,
+        "TYPE": "Stratovolcanoes",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -112.5906
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.59058373619611,
+          27.47017674921362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 198,
+        "NUMBER": "1401-011",
+        "LOCATION": "Mexico",
+        "NAME": "Tortuga, Isla",
+        "ELEVATION": 210,
+        "TYPE": "Shield volcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -111.8506
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.85056273550691,
+          27.392181749140985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 199,
+        "NUMBER": "1401-012",
+        "LOCATION": "Mexico",
+        "NAME": "Comondu-La Purisima",
+        "ELEVATION": 780,
+        "TYPE": "Volcanic field",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -111.9205
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.92051673557206,
+          26.000207747844605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 200,
+        "NUMBER": "1600-01=",
+        "LOCATION": "W Indies",
+        "NAME": "Saba",
+        "ELEVATION": 887,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D5",
+        "test": null,
+        "coor": -63.23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.22999969022548,
+          17.62999774004924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 201,
+        "NUMBER": "1600-02=",
+        "LOCATION": "W Indies",
+        "NAME": "Quill, The",
+        "ELEVATION": 601,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D6",
+        "test": null,
+        "coor": -62.95
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.95000068996471,
+          17.480001739909547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 202,
+        "NUMBER": "1600-03=",
+        "LOCATION": "W Indies",
+        "NAME": "Liamuiga",
+        "ELEVATION": 1156,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D6",
+        "test": null,
+        "coor": -62.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.799999689825015,
+          17.3700007398071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 203,
+        "NUMBER": "1600-04=",
+        "LOCATION": "W Indies",
+        "NAME": "Nevis Peak",
+        "ELEVATION": 985,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -62.58
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.58000168962012,
+          17.149999739602208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 204,
+        "NUMBER": "1600-05=",
+        "LOCATION": "W Indies",
+        "NAME": "Soufriere Hills",
+        "ELEVATION": 915,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -62.18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.18000068924759,
+          16.71999973920174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 205,
+        "NUMBER": "1401-022",
+        "LOCATION": "Mexico",
+        "NAME": "Durango Volc Field",
+        "ELEVATION": 2075,
+        "TYPE": "Cinder cones",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -104.4503
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.45028672861487,
+          24.15029374612174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 206,
+        "NUMBER": "1600-06=",
+        "LOCATION": "W Indies",
+        "NAME": "Soufriere Guadeloupe",
+        "ELEVATION": 1467,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -61.67
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.66999768877261,
+          16.049998738577752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 207,
+        "NUMBER": "1600-08=",
+        "LOCATION": "W Indies",
+        "NAME": "Diables, Morne aux",
+        "ELEVATION": 861,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -61.45
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.45000068856773,
+          15.620000738177286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 208,
+        "NUMBER": "1600-09=",
+        "LOCATION": "W Indies",
+        "NAME": "Diablotins, Morne",
+        "ELEVATION": 1430,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -61.42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.41999768853978,
+          15.500000738065527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 209,
+        "NUMBER": "1600-10=",
+        "LOCATION": "W Indies",
+        "NAME": "Trois Pitons, Morne",
+        "ELEVATION": 1387,
+        "TYPE": "Lava domes",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D6",
+        "test": null,
+        "coor": -61.33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.330001688455965,
+          15.369998737944453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 210,
+        "NUMBER": "1600-101",
+        "LOCATION": "W Indies",
+        "NAME": "Watt, Morne",
+        "ELEVATION": 1224,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -61.32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.31999968844666,
+          15.299999737879261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 211,
+        "NUMBER": "1600-11=",
+        "LOCATION": "W Indies",
+        "NAME": "Plat Pays, Morne",
+        "ELEVATION": 940,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D6",
+        "test": null,
+        "coor": -61.37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.369998688493226,
+          15.220000737804757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 212,
+        "NUMBER": "1600-12=",
+        "LOCATION": "W Indies",
+        "NAME": "Pelee",
+        "ELEVATION": 1397,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D2",
+        "test": null,
+        "coor": -61.17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.16999768830695,
+          14.819999737432227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 213,
+        "NUMBER": "1600-14=",
+        "LOCATION": "W Indies",
+        "NAME": "Qualibou",
+        "ELEVATION": 777,
+        "TYPE": "Caldera",
+        "STATUS": "Historical",
+        "TIME_CODE": "D4",
+        "test": null,
+        "coor": -61.05
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0499996881952,
+          13.830000736510218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 214,
+        "NUMBER": "1600-15=",
+        "LOCATION": "W Indies",
+        "NAME": "Soufriere St. Vincent",
+        "ELEVATION": 1220,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -61.18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.179996688316265,
+          13.329998736044555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 215,
+        "NUMBER": "1401-023",
+        "LOCATION": "Mexico",
+        "NAME": "Sanganguey",
+        "ELEVATION": 2340,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -104.7302
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.73019372887555,
+          21.450332743607206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 216,
+        "NUMBER": "1401-03=",
+        "LOCATION": "Mexico",
+        "NAME": "Ceboruco",
+        "ELEVATION": 2280,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D3",
+        "test": null,
+        "coor": -104.5002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.50016772866132,
+          21.12533774330453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 217,
+        "NUMBER": "1401-031",
+        "LOCATION": "Mexico",
+        "NAME": "Mascota Volc Field",
+        "ELEVATION": 2560,
+        "TYPE": "Cinder cones",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -104.8302
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.83016172896865,
+          20.62034374283422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 218,
+        "NUMBER": "1600-16=",
+        "LOCATION": "W Indies",
+        "NAME": "Kick 'em Jenny",
+        "ELEVATION": -185,
+        "TYPE": "Submarine volcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -61.64
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.63999968874468,
+          12.299999735085294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 219,
+        "NUMBER": "1600-17=",
+        "LOCATION": "W Indies",
+        "NAME": "St. Catherine",
+        "ELEVATION": 840,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -61.67
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.66999768877261,
+          12.150000734945596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 220,
+        "NUMBER": "1401-02=",
+        "LOCATION": "Mexico-Is",
+        "NAME": "Barcena",
+        "ELEVATION": 332,
+        "TYPE": "Cinder cones",
+        "STATUS": "Historical",
+        "TIME_CODE": "D2",
+        "test": null,
+        "coor": -110.82
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.81999973454712,
+          19.29999874160455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 221,
+        "NUMBER": "1401-094",
+        "LOCATION": "Mexico",
+        "NAME": "Atlixcos, Los",
+        "ELEVATION": 800,
+        "TYPE": "Shield volcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -96.526
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5260007212348,
+          19.808997742078596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 222,
+        "NUMBER": "1401-095",
+        "LOCATION": "Mexico",
+        "NAME": "Naolinco Volc Field",
+        "ELEVATION": 2000,
+        "TYPE": "Pyroclastic cones",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -96.75
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.74999972144342,
+          19.66999974194914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 223,
+        "NUMBER": "1401-062",
+        "LOCATION": "Mexico",
+        "NAME": "Jocotitlan",
+        "ELEVATION": 3900,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D6",
+        "test": null,
+        "coor": -99.757
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.7570037242439,
+          19.724000741999433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 224,
+        "NUMBER": "1401-093",
+        "LOCATION": "Mexico",
+        "NAME": "Humeros, Los",
+        "ELEVATION": 3150,
+        "TYPE": "Calderas",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -97.45
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.44999672209534,
+          19.680000741958455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 225,
+        "NUMBER": "1401-04=",
+        "LOCATION": "Mexico",
+        "NAME": "Colima",
+        "ELEVATION": 3850,
+        "TYPE": "Stratovolcanoes",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -103.62
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.62000272784161,
+          19.513999741803858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 226,
+        "NUMBER": "1401-096",
+        "LOCATION": "Mexico",
+        "NAME": "Cofre de Perote",
+        "ELEVATION": 4282,
+        "TYPE": "Shield volcano",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D6",
+        "test": null,
+        "coor": -97.15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.15000172181594,
+          19.491998741783366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 227,
+        "NUMBER": "1401-06=",
+        "LOCATION": "Mexico",
+        "NAME": "Michoacan-Guanajuato",
+        "ELEVATION": 3860,
+        "TYPE": "Cinder cones",
+        "STATUS": "Historical",
+        "TIME_CODE": "D2",
+        "test": null,
+        "coor": -102.25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.24999972656569,
+          19.47999974177219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 228,
+        "NUMBER": "1401-021",
+        "LOCATION": "Mexico-Is",
+        "NAME": "Socorro",
+        "ELEVATION": 1050,
+        "TYPE": "Shield volcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -110.95
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.94999673466819,
+          18.780000741120265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 229,
+        "NUMBER": "1401-061",
+        "LOCATION": "Mexico",
+        "NAME": "Zitacuaro-Valle de Bravo",
+        "ELEVATION": 3500,
+        "TYPE": "Caldera",
+        "STATUS": "Potassium-Argon",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -100.25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.24999972470304,
+          19.399999741697684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 230,
+        "NUMBER": "1401-097",
+        "LOCATION": "Mexico",
+        "NAME": "Gloria, La",
+        "ELEVATION": 3500,
+        "TYPE": "Volcanic field",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -97.25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.24999972190908,
+          19.32999974163249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 231,
+        "NUMBER": "1401-081",
+        "LOCATION": "Mexico",
+        "NAME": "Papayo",
+        "ELEVATION": 3600,
+        "TYPE": "Lava dome",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -98.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.69999672325949,
+          19.307998741612003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 232,
+        "NUMBER": "1401-092",
+        "LOCATION": "Mexico",
+        "NAME": "Serdan-Oriental",
+        "ELEVATION": 3485,
+        "TYPE": "Tuff cones",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -97.47
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.47000072211397,
+          19.270002741576615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 233,
+        "NUMBER": "1401-091",
+        "LOCATION": "Mexico",
+        "NAME": "Malinche, La",
+        "ELEVATION": 4503,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -98.03
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.02999872263551,
+          19.22999974153936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 234,
+        "NUMBER": "1401-098",
+        "LOCATION": "Mexico",
+        "NAME": "Cumbres,  Las",
+        "ELEVATION": 3940,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -97.27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2699967219277,
+          19.149999741464853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 235,
+        "NUMBER": "1401-082",
+        "LOCATION": "Mexico",
+        "NAME": "Iztaccihuatl",
+        "ELEVATION": 5230,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -98.642
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.64199872320548,
+          19.179000741491862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 236,
+        "NUMBER": "1401-07-",
+        "LOCATION": "Mexico",
+        "NAME": "Toluca, Nevado de",
+        "ELEVATION": 4680,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -99.758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.75800372424484,
+          19.107999741425736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 237,
+        "NUMBER": "1401-08=",
+        "LOCATION": "Mexico",
+        "NAME": "Chichinautzin",
+        "ELEVATION": 3930,
+        "TYPE": "Volcanic field",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D6",
+        "test": null,
+        "coor": -99.13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.12999772365995,
+          19.07999974139966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 238,
+        "NUMBER": "1401-10=",
+        "LOCATION": "Mexico",
+        "NAME": "Orizaba, Pico de",
+        "ELEVATION": 5675,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D3",
+        "test": null,
+        "coor": -97.268
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.26799772192584,
+          19.030002741353098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 239,
+        "NUMBER": "1401-09=",
+        "LOCATION": "Mexico",
+        "NAME": "Popocatepetl",
+        "ELEVATION": 5426,
+        "TYPE": "Stratovolcanoes",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -98.622
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.62200172318686,
+          19.02300274134658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 240,
+        "NUMBER": "1401-11=",
+        "LOCATION": "Mexico",
+        "NAME": "San Martin",
+        "ELEVATION": 1650,
+        "TYPE": "Shield volcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D4",
+        "test": null,
+        "coor": -95.169
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.168998719971,
+          18.572000740926548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 241,
+        "NUMBER": "1401-12=",
+        "LOCATION": "Mexico",
+        "NAME": "Chichon, El",
+        "ELEVATION": 1150,
+        "TYPE": "Lava domes",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -93.228
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2279967181633,
+          17.360000739797787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 242,
+        "NUMBER": "1403-16-",
+        "LOCATION": "Honduras",
+        "NAME": "Utila Island",
+        "ELEVATION": 74,
+        "TYPE": "Pyroclastic cones",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -86.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.90000171226988,
+          16.10000073862432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 243,
+        "NUMBER": "1403-15-",
+        "LOCATION": "Honduras",
+        "NAME": "Yojoa, Lake",
+        "ELEVATION": 1090,
+        "TYPE": "Volcanic field",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -87.98
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.98000371327572,
+          14.979999737581238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 244,
+        "NUMBER": "1401-13=",
+        "LOCATION": "Mexico",
+        "NAME": "Tacana",
+        "ELEVATION": 4060,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -92.112
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.11199971712394,
+          15.129999737720937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 245,
+        "NUMBER": "1402-20-",
+        "LOCATION": "Guatemala",
+        "NAME": "Chiquimula Volc Field",
+        "ELEVATION": 1192,
+        "TYPE": "Cinder cones",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -89.55
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5500027147379,
+          14.829998737441539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 246,
+        "NUMBER": "1402-02=",
+        "LOCATION": "Guatemala",
+        "NAME": "Tajumulco",
+        "ELEVATION": 4220,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -91.903
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9029997169293,
+          15.034001737631531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 247,
+        "NUMBER": "1402-04=",
+        "LOCATION": "Guatemala",
+        "NAME": "Almolonga",
+        "ELEVATION": 3197,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D3",
+        "test": null,
+        "coor": -91.48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.48000371653535,
+          14.820000737432228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 248,
+        "NUMBER": "1402-21-",
+        "LOCATION": "Guatemala",
+        "NAME": "Quezaltepeque",
+        "ELEVATION": 1200,
+        "TYPE": "Volcanic field",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -89.45
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.44999671464475,
+          14.569998737199395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 249,
+        "NUMBER": "1402-03=",
+        "LOCATION": "Guatemala",
+        "NAME": "Santa Maria",
+        "ELEVATION": 3772,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -91.552
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5520017166024,
+          14.755998737372622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 250,
+        "NUMBER": "1402-19-",
+        "LOCATION": "Guatemala",
+        "NAME": "Ipala",
+        "ELEVATION": 1650,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -89.63
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.62999771481239,
+          14.549998737180768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 251,
+        "NUMBER": "1402-05=",
+        "LOCATION": "Guatemala",
+        "NAME": "Santo Tom�s",
+        "ELEVATION": 3542,
+        "TYPE": "Stratovolcanoes",
+        "STATUS": "Pleistocene-Fumarolic",
+        "TIME_CODE": "Q",
+        "test": null,
+        "coor": -91.479
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.47899671653441,
+          14.70999873732978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 252,
+        "NUMBER": "1402-07=",
+        "LOCATION": "Guatemala",
+        "NAME": "Toliman",
+        "ELEVATION": 3158,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -91.189
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.18900271626433,
+          14.611999737238513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 253,
+        "NUMBER": "1402-06=",
+        "LOCATION": "Guatemala",
+        "NAME": "Atitlan",
+        "ELEVATION": 3535,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D3",
+        "test": null,
+        "coor": -91.186
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.18599671626153,
+          14.582999737211503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 254,
+        "NUMBER": "1402-18-",
+        "LOCATION": "Guatemala",
+        "NAME": "Ixtepeque",
+        "ELEVATION": 1292,
+        "TYPE": "Lava domes",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -89.68
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.68000071485896,
+          14.419999737059698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 255,
+        "NUMBER": "1402-141",
+        "LOCATION": "Guatemala",
+        "NAME": "Tahual",
+        "ELEVATION": 1716,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -89.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.90000171506385,
+          14.42999973706901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 256,
+        "NUMBER": "1402-16-",
+        "LOCATION": "Guatemala",
+        "NAME": "Suchitan",
+        "ELEVATION": 2042,
+        "TYPE": "Stratovolcanoes",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -89.78
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7799987149521,
+          14.400000737041072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 257,
+        "NUMBER": "1402-08=",
+        "LOCATION": "Guatemala",
+        "NAME": "Acatenango",
+        "ELEVATION": 3976,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -90.876
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.87599971597282,
+          14.501000737135136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 258,
+        "NUMBER": "1402-10=",
+        "LOCATION": "Guatemala",
+        "NAME": "Agua",
+        "ELEVATION": 3760,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -90.743
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.74299571584896,
+          14.465000737101608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 259,
+        "NUMBER": "1402-09=",
+        "LOCATION": "Guatemala",
+        "NAME": "Fuego",
+        "ELEVATION": 3763,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -90.88
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.87999771597654,
+          14.472998737109057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 260,
+        "NUMBER": "1402-15-",
+        "LOCATION": "Guatemala",
+        "NAME": "Santiago, Cerro",
+        "ELEVATION": 1192,
+        "TYPE": "Volcanic field",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -89.87
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.87000271503592,
+          14.329999736975878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 261,
+        "NUMBER": "1403-001",
+        "LOCATION": "El Salvador",
+        "NAME": "San Diego",
+        "ELEVATION": 781,
+        "TYPE": "Volcanic field",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -89.48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4800037146727,
+          14.26999973692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 262,
+        "NUMBER": "1402-11=",
+        "LOCATION": "Guatemala",
+        "NAME": "Pacaya",
+        "ELEVATION": 2552,
+        "TYPE": "Complex volcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -90.601
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.60099771571672,
+          14.380999737023377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 263,
+        "NUMBER": "1402-14-",
+        "LOCATION": "Guatemala",
+        "NAME": "Flores",
+        "ELEVATION": 1600,
+        "TYPE": "Volcanic field",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -90
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.99999971515699,
+          14.30000073694794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 264,
+        "NUMBER": "1402-111",
+        "LOCATION": "Guatemala",
+        "NAME": "Cuilapa-Barbarena",
+        "ELEVATION": 1454,
+        "TYPE": "Volcanic field",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -90.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.40000171552951,
+          14.329999736975878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 265,
+        "NUMBER": "1402-17-",
+        "LOCATION": "Guatemala",
+        "NAME": "Chingo",
+        "ELEVATION": 1775,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -89.73
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.73000371490554,
+          14.1199997367803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 266,
+        "NUMBER": "1402-12=",
+        "LOCATION": "Guatemala",
+        "NAME": "Tecuamburro",
+        "ELEVATION": 1845,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -90.407
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.40699771553604,
+          14.155999736813829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 267,
+        "NUMBER": "1403-051",
+        "LOCATION": "El Salvador",
+        "NAME": "Cinotepeque, Cerro",
+        "ELEVATION": 665,
+        "TYPE": "Volcanic field",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -89.25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2499997144585,
+          14.02000173668717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 268,
+        "NUMBER": "1403-002",
+        "LOCATION": "El Salvador",
+        "NAME": "Singuil, Cerro",
+        "ELEVATION": 957,
+        "TYPE": "Cinder cones",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -89.65
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.65000171483102,
+          14.05000073671511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 269,
+        "NUMBER": "1402-13-",
+        "LOCATION": "Guatemala",
+        "NAME": "Moyuta",
+        "ELEVATION": 1662,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Hot Springs",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -90.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.09999871525012,
+          14.029999736696482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 270,
+        "NUMBER": "1403-052",
+        "LOCATION": "El Salvador",
+        "NAME": "Guazapa",
+        "ELEVATION": 1438,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -89.12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.12000271433743,
+          13.899998736575409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 271,
+        "NUMBER": "1403-041",
+        "LOCATION": "El Salvador",
+        "NAME": "Coatepeque Caldera",
+        "ELEVATION": 746,
+        "TYPE": "Caldera",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -89.55
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5500027147379,
+          13.869998736547469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 272,
+        "NUMBER": "1403-01=",
+        "LOCATION": "El Salvador",
+        "NAME": "Apaneca Range",
+        "ELEVATION": 2036,
+        "TYPE": "Stratovolcanoes",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -89.786
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.78600271495769,
+          13.890999736567029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 273,
+        "NUMBER": "1403-02=",
+        "LOCATION": "El Salvador",
+        "NAME": "Santa Ana",
+        "ELEVATION": 2381,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D2",
+        "test": null,
+        "coor": -89.63
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.62999771481239,
+          13.853000736531639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 274,
+        "NUMBER": "1403-071",
+        "LOCATION": "El Salvador",
+        "NAME": "Apastepeque Field",
+        "ELEVATION": 700,
+        "TYPE": "Volcanic field",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -88.77
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.76999671401146,
+          13.719999736407772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 275,
+        "NUMBER": "1403-03=",
+        "LOCATION": "El Salvador",
+        "NAME": "Izalco",
+        "ELEVATION": 1950,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -89.633
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6330037148152,
+          13.812999736494385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 276,
+        "NUMBER": "1403-05=",
+        "LOCATION": "El Salvador",
+        "NAME": "San Salvador",
+        "ELEVATION": 1893,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D2",
+        "test": null,
+        "coor": -89.294
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.29399871449947,
+          13.73400073642081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 277,
+        "NUMBER": "1403-06=",
+        "LOCATION": "El Salvador",
+        "NAME": "Ilopango",
+        "ELEVATION": 450,
+        "TYPE": "Caldera",
+        "STATUS": "Historical",
+        "TIME_CODE": "D3",
+        "test": null,
+        "coor": -89.053
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.05300171427503,
+          13.672000736363069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 278,
+        "NUMBER": "1403-07=",
+        "LOCATION": "El Salvador",
+        "NAME": "San Vicente",
+        "ELEVATION": 2182,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -88.837
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.83699771407386,
+          13.594999736291356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 279,
+        "NUMBER": "1403-09=",
+        "LOCATION": "El Salvador",
+        "NAME": "Chinameca",
+        "ELEVATION": 1228,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -88.32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.31999971359237,
+          13.475000736179599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 280,
+        "NUMBER": "1403-08=",
+        "LOCATION": "El Salvador",
+        "NAME": "Tecapa",
+        "ELEVATION": 1593,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -88.502
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.50199871376186,
+          13.494001736197294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 281,
+        "NUMBER": "1403-101",
+        "LOCATION": "El Salvador",
+        "NAME": "Aramuaca, Laguna",
+        "ELEVATION": 181,
+        "TYPE": "Maar",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -88.105
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.10500371339214,
+          13.428000736135827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 282,
+        "NUMBER": "1403-082",
+        "LOCATION": "El Salvador",
+        "NAME": "Tigre, El",
+        "ELEVATION": 1640,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -88.43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.43000071369481,
+          13.470000736174942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 283,
+        "NUMBER": "1403-10=",
+        "LOCATION": "El Salvador",
+        "NAME": "San Miguel",
+        "ELEVATION": 2130,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -88.269
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.26899671354487,
+          13.434000736141414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 284,
+        "NUMBER": "1404-131",
+        "LOCATION": "Nicaragua",
+        "NAME": "Esteli",
+        "ELEVATION": 899,
+        "TYPE": "Fissure vents",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -86.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.40000171180422,
+          13.169998735895543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 285,
+        "NUMBER": "1403-14-",
+        "LOCATION": "Honduras",
+        "NAME": "Zacate Grande, Isla",
+        "ELEVATION": 640,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -87.63
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62999771294974,
+          13.330000736044557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 286,
+        "NUMBER": "1403-072",
+        "LOCATION": "El Salvador",
+        "NAME": "Taburete",
+        "ELEVATION": 1172,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -88.532
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5319977137898,
+          13.435001736142347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 287,
+        "NUMBER": "1403-081",
+        "LOCATION": "El Salvador",
+        "NAME": "Usulutan",
+        "ELEVATION": 1449,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -88.471
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.47100071373299,
+          13.418999736127443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 288,
+        "NUMBER": "1403-13-",
+        "LOCATION": "Honduras",
+        "NAME": "Tigre, Isla el",
+        "ELEVATION": 783,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -87.63
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62999771294974,
+          13.269999735988677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 289,
+        "NUMBER": "1403-11=",
+        "LOCATION": "El Salvador",
+        "NAME": "Conchagua",
+        "ELEVATION": 1225,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Uncertain",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -87.853
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.85299671315744,
+          13.277001735995198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 290,
+        "NUMBER": "1403-12=",
+        "LOCATION": "El Salvador",
+        "NAME": "Conchaguita",
+        "ELEVATION": 505,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D3",
+        "test": null,
+        "coor": -87.765
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.76499971307548,
+          13.21999973594211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 291,
+        "NUMBER": "1404-14-",
+        "LOCATION": "Nicaragua",
+        "NAME": "Azul, Volcan",
+        "ELEVATION": 201,
+        "TYPE": "Cinder cones",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -83.87
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.87000270944799,
+          12.530000735299499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 292,
+        "NUMBER": "1404-01=",
+        "LOCATION": "Nicaragua",
+        "NAME": "Cosiguina",
+        "ELEVATION": 872,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D3",
+        "test": null,
+        "coor": -87.57
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56999971289387,
+          12.979999735718593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 293,
+        "NUMBER": "1404-02=",
+        "LOCATION": "Nicaragua",
+        "NAME": "San Cristobal",
+        "ELEVATION": 1745,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -87.004
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.00399771236674,
+          12.701999735459685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 294,
+        "NUMBER": "1404-132",
+        "LOCATION": "Nicaragua",
+        "NAME": "Ciguatepe, Cerro el",
+        "ELEVATION": 603,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -86.142
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.14199871156394,
+          12.529998735299497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 295,
+        "NUMBER": "1404-04=",
+        "LOCATION": "Nicaragua",
+        "NAME": "Telica",
+        "ELEVATION": 1061,
+        "TYPE": "Stratovolcanoes",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -86.845
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.84500171221866,
+          12.602000735366554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 296,
+        "NUMBER": "1404-06-",
+        "LOCATION": "Nicaragua",
+        "NAME": "Rota",
+        "ELEVATION": 832,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -86.75
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.74999971213019,
+          12.549999735318124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 297,
+        "NUMBER": "1404-07=",
+        "LOCATION": "Nicaragua",
+        "NAME": "Negro, Cerro",
+        "ELEVATION": 728,
+        "TYPE": "Cinder cones",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -86.702
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.70200371208549,
+          12.505998735277146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 298,
+        "NUMBER": "1404-08=",
+        "LOCATION": "Nicaragua",
+        "NAME": "Pilas, Las",
+        "ELEVATION": 1088,
+        "TYPE": "Complex volcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D2",
+        "test": null,
+        "coor": -86.688
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.68800371207244,
+          12.494999735266902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 299,
+        "NUMBER": "1404-133",
+        "LOCATION": "Nicaragua",
+        "NAME": "Lajas, Las",
+        "ELEVATION": 926,
+        "TYPE": "Shield volcano",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -85.73
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.73000371118025,
+          12.299999735085294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 300,
+        "NUMBER": "1404-09=",
+        "LOCATION": "Nicaragua",
+        "NAME": "Momotombo",
+        "ELEVATION": 1297,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D2",
+        "test": null,
+        "coor": -86.54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.54000071193461,
+          12.421999735198915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 301,
+        "NUMBER": "1404-091",
+        "LOCATION": "Nicaragua",
+        "NAME": "Apoyeque",
+        "ELEVATION": 518,
+        "TYPE": "Pyroclastic shield",
+        "STATUS": "Radiocarbon",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -86.342
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.34200271175021,
+          12.241999735031277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 302,
+        "NUMBER": "1404-092",
+        "LOCATION": "Nicaragua",
+        "NAME": "Nejapa-Miraflores",
+        "ELEVATION": 360,
+        "TYPE": "Fissure vents",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -86.32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.31999971172972,
+          12.119999734917656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 303,
+        "NUMBER": "1404-10=",
+        "LOCATION": "Nicaragua",
+        "NAME": "Masaya",
+        "ELEVATION": 635,
+        "TYPE": "Caldera",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -86.161
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.16100271158165,
+          11.983999734790995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 304,
+        "NUMBER": "1404-101",
+        "LOCATION": "Nicaragua",
+        "NAME": "Granada",
+        "ELEVATION": 300,
+        "TYPE": "Fissure vents",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -85.98
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.98000371141308,
+          11.91999873473139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 305,
+        "NUMBER": "1404-11=",
+        "LOCATION": "Nicaragua",
+        "NAME": "Mombacho",
+        "ELEVATION": 1344,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -85.968
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9680027114019,
+          11.825999734643847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 306,
+        "NUMBER": "1404-111",
+        "LOCATION": "Nicaragua",
+        "NAME": "Zapatera",
+        "ELEVATION": 629,
+        "TYPE": "Shield volcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -85.82
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.81999971126406,
+          11.72999973455444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 307,
+        "NUMBER": "1404-12=",
+        "LOCATION": "Nicaragua",
+        "NAME": "Concepcion",
+        "ELEVATION": 1700,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -85.622
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.62200171107966,
+          11.537998734375625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 308,
+        "NUMBER": "1404-13-",
+        "LOCATION": "Nicaragua",
+        "NAME": "Maderas",
+        "ELEVATION": 1394,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -85.515
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.51499971098,
+          11.446000734289946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 309,
+        "NUMBER": "1405-01=",
+        "LOCATION": "Costa Rica",
+        "NAME": "Orosi",
+        "ELEVATION": 1659,
+        "TYPE": "Stratovolcanoes",
+        "STATUS": "Uncertain",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -85.473
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4729997109409,
+          10.979999733855948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 310,
+        "NUMBER": "1405-02=",
+        "LOCATION": "Costa Rica",
+        "NAME": "Rincon de la Vieja",
+        "ELEVATION": 1916,
+        "TYPE": "Complex volcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -85.324
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.32399771080212,
+          10.82999973371625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 311,
+        "NUMBER": "1405-03=",
+        "LOCATION": "Costa Rica",
+        "NAME": "Miravalles",
+        "ELEVATION": 2028,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D2",
+        "test": null,
+        "coor": -85.153
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.15299971064287,
+          10.748000733639882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 312,
+        "NUMBER": "1405-031",
+        "LOCATION": "Costa Rica",
+        "NAME": "Tenorio",
+        "ELEVATION": 1916,
+        "TYPE": "Stratovolcanoes",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -85.015
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.01499971051435,
+          10.673000733570033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 313,
+        "NUMBER": "1405-033",
+        "LOCATION": "Costa Rica",
+        "NAME": "Arenal",
+        "ELEVATION": 1657,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -84.703
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.70300271022377,
+          10.463000733374455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 314,
+        "NUMBER": "1405-032",
+        "LOCATION": "Costa Rica",
+        "NAME": "Tilaran, Cerro",
+        "ELEVATION": 634,
+        "TYPE": "Shield volcano",
+        "STATUS": "Holocene?",
+        "TIME_CODE": "?",
+        "test": null,
+        "coor": -84.978
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.97799671047989,
+          10.450999733363279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 315,
+        "NUMBER": "1405-034",
+        "LOCATION": "Costa Rica",
+        "NAME": "Platanar",
+        "ELEVATION": 2267,
+        "TYPE": "Stratovolcanoes",
+        "STATUS": "Holocene",
+        "TIME_CODE": "U",
+        "test": null,
+        "coor": -84.366
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.36599770990992,
+          10.299999733222649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 316,
+        "NUMBER": "1405-04=",
+        "LOCATION": "Costa Rica",
+        "NAME": "Poas",
+        "ELEVATION": 2708,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D1",
+        "test": null,
+        "coor": -84.233
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.23300170978605,
+          10.199999733129516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 317,
+        "NUMBER": "1405-05=",
+        "LOCATION": "Costa Rica",
+        "NAME": "Barva",
+        "ELEVATION": 2906,
+        "TYPE": "Complex volcano",
+        "STATUS": "Tephrochronology",
+        "TIME_CODE": "D7",
+        "test": null,
+        "coor": -84.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.09999870966219,
+          10.13499973306898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": 318,
+        "NUMBER": "1405-07=",
+        "LOCATION": "Costa Rica",
+        "NAME": "Turrialba",
+        "ELEVATION": 3340,
+        "TYPE": "Stratovolcano",
+        "STATUS": "Historical",
+        "TIME_CODE": "D3",
+        "test": null,
+        "coor": -83.77
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.76999670935484,
+          10.029999732971191
+        ]
+      }
+    }
+  ]
+}
